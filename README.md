@@ -4,7 +4,7 @@
 
 ## How to run it . 
 
-# prepare for the celo blockchain alfajores network 
+### prepare for the celo blockchain alfajores network 
 export CELO_IMAGE=us.gcr.io/celo-org/geth:alfajores
 docker pull $CELO_IMAGE
 
